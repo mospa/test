@@ -1,0 +1,9 @@
+F:\test\wowajjl\wowajjl\bin\Release\wowajjl.exe.config
+F:\test\wowajjl\wowajjl\bin\Release\wowajjl.exe
+F:\test\wowajjl\wowajjl\bin\Release\wowajjl.pdb
+F:\test\wowajjl\wowajjl\obj\Release\wowajjl.Form1.resources
+F:\test\wowajjl\wowajjl\obj\Release\wowajjl.Properties.Resources.resources
+F:\test\wowajjl\wowajjl\obj\Release\wowajjl.csproj.GenerateResource.Cache
+F:\test\wowajjl\wowajjl\obj\Release\wowajjl.exe
+F:\test\wowajjl\wowajjl\obj\Release\wowajjl.pdb
+F:\test\wowajjl\wowajjl\obj\Release\wowajjl.csprojResolveAssemblyReference.cache
